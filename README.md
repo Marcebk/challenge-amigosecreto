@@ -15,7 +15,9 @@ Interactividad visual: El botón "Añadir" cambia de color cuando hay un input v
 TECNOLOGIAS UTILIZADAS 🛠️
 
 HTML5: Estructura del contenido.
+
 CSS3: Estilización y diseño visual.
+
 JavaScript: Lógica e interactividad de la aplicación.
 
 COMO JUGAR 🚀
